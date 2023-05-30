@@ -9,6 +9,3 @@ public class Application {
         SpringApplication.run(Application.class, args);
     }
 }
-
-//To execute the application u open cmd and add the following 
-// curl -d "data=example1&data2=example2" http://localhost:8080/api/data 

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;gr.upatras.mqtt-0.0.1-SNAPSHOT.jar&apos; to &apos;deploy&apos;&#x0D;&#x0A;- Original project: &apos;gr.upatras.mqtt&apos;&#x0D;&#x0A;- Destination element: &apos;deploy&apos;&#x0D;&#x0A;- Original element: &apos;gr.upatras.mqtt-0.0.1-SNAPSHOT.jar&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move file" element1="target/gr.upatras.mqtt-0.0.1-SNAPSHOT.jar" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1685468467216" target="deploy" units="0" version="1.0"/>
+</session>
